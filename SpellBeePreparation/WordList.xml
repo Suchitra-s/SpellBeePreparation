@@ -1,0 +1,422 @@
+﻿<Words xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Word>
+    <Name>Able</Name>
+    <Meaning>having the talent and strength to do something</Meaning>
+  </Word>
+  <Word>
+    <Name>Abort</Name>
+    <Meaning>to stop some activity before completion</Meaning>
+  </Word>
+  <Word>
+    <Name>Absent</Name>
+    <Meaning>to be missing; not present</Meaning>
+  </Word>
+  <Word>
+    <Name>Across</Name>
+    <Meaning>from one side to another</Meaning>
+  </Word>
+  <Word>
+    <Name>Actual</Name>
+    <Meaning>real or original</Meaning>
+  </Word>
+  <Word>
+    <Name>Adopt</Name>
+    <Meaning>to accept and follow an idea or action</Meaning>
+  </Word>
+  <Word>
+    <Name>Adore</Name>
+    <Meaning>to like or respect someone or something very much</Meaning>
+  </Word>
+  <Word>
+    <Name>Adorn</Name>
+    <Meaning>to make something more beautiful</Meaning>
+  </Word>
+  <Word>
+    <Name>Advise</Name>
+    <Meaning>to give tips to someone to help them do better or be better</Meaning>
+  </Word>
+  <Word>
+    <Name>Aeroplane</Name>
+    <Meaning>a vehicle that is used for travelling by air</Meaning>
+  </Word>
+  <Word>
+    <Name>Afresh</Name>
+    <Meaning>again from the beginning, but in a new and different way</Meaning>
+  </Word>
+  <Word>
+    <Name>Against</Name>
+    <Meaning>opposite to</Meaning>
+  </Word>
+  <Word>
+    <Name>Agent</Name>
+    <Meaning>someone who does a job on behalf of someone else or a company</Meaning>
+  </Word>
+  <Word>
+    <Name>Agile</Name>
+    <Meaning>being able to move easily and quickly</Meaning>
+  </Word>
+  <Word>
+    <Name>Agree</Name>
+    <Meaning>accept </Meaning>
+  </Word>
+  <Word>
+    <Name>Ahead</Name>
+    <Meaning>in front </Meaning>
+  </Word>
+  <Word>
+    <Name>Allow</Name>
+    <Meaning>to let someonw do something</Meaning>
+  </Word>
+  <Word>
+    <Name>Ally</Name>
+    <Meaning>one who helps another in doing something</Meaning>
+  </Word>
+  <Word>
+    <Name>Almost</Name>
+    <Meaning>very nearly</Meaning>
+  </Word>
+  <Word>
+    <Name>Alter</Name>
+    <Meaning>to make changes to something</Meaning>
+  </Word>
+  <Word>
+    <Name>Although</Name>
+    <Meaning>but; even though</Meaning>
+  </Word>
+  <Word>
+    <Name>Always</Name>
+    <Meaning>all the time</Meaning>
+  </Word>
+  <Word>
+    <Name>Amount</Name>
+    <Meaning>the sum total of something</Meaning>
+  </Word>
+  <Word>
+    <Name>Amuse</Name>
+    <Meaning>to make someone laught or smile by being funny</Meaning>
+  </Word>
+  <Word>
+    <Name>Angle</Name>
+    <Meaning>the space between two straight lines where they join or cross each other</Meaning>
+  </Word>
+  <Word>
+    <Name>Animal</Name>
+    <Meaning>any living being which moves on its own</Meaning>
+  </Word>
+  <Word>
+    <Name>Annual</Name>
+    <Meaning>taking place every year</Meaning>
+  </Word>
+  <Word>
+    <Name>Another</Name>
+    <Meaning>one more</Meaning>
+  </Word>
+  <Word>
+    <Name>Answer</Name>
+    <Meaning>a solution</Meaning>
+  </Word>
+  <Word>
+    <Name>Anything</Name>
+    <Meaning>any one thing</Meaning>
+  </Word>
+  <Word>
+    <Name>Anyway</Name>
+    <Meaning>however</Meaning>
+  </Word>
+  <Word>
+    <Name>Apart</Name>
+    <Meaning>not together</Meaning>
+  </Word>
+  <Word>
+    <Name>Appeal</Name>
+    <Meaning>a request for help, money or support in a serious way</Meaning>
+  </Word>
+  <Word>
+    <Name>Appear</Name>
+    <Meaning>to become visible</Meaning>
+  </Word>
+  <Word>
+    <Name>Apply</Name>
+    <Meaning>to put to use </Meaning>
+  </Word>
+  <Word>
+    <Name>Apron</Name>
+    <Meaning>a piece of clothing that someone wears in the kitchen, to protect her clothes from getting dirty</Meaning>
+  </Word>
+  <Word>
+    <Name>Apt</Name>
+    <Meaning>being suitable and correct</Meaning>
+  </Word>
+  <Word>
+    <Name>Aquatic</Name>
+    <Meaning>relating to water</Meaning>
+  </Word>
+  <Word>
+    <Name>Asleep</Name>
+    <Meaning>not awake</Meaning>
+  </Word>
+  <Word>
+    <Name>Atlas</Name>
+    <Meaning>a book of maps</Meaning>
+  </Word>
+  <Word>
+    <Name>Avail</Name>
+    <Meaning>to use</Meaning>
+  </Word>
+  <Word>
+    <Name>Axe</Name>
+    <Meaning>a tool that is used to cut wood</Meaning>
+  </Word>
+  <Word>
+    <Name>adopt</Name>
+    <Meaning>to legally raise another person's child as one's own</Meaning>
+  </Word>
+  <Word>
+    <Name>Agent</Name>
+    <Meaning>a person or a thing that helps something to happen</Meaning>
+  </Word>
+  <Word>
+    <Name>Ahead</Name>
+    <Meaning>in front </Meaning>
+  </Word>
+  <Word>
+    <Name>Almost</Name>
+    <Meaning>close to reach or finish something</Meaning>
+  </Word>
+  <Word>
+    <Name>Angle</Name>
+    <Meaning>The way one looks at a particular thing</Meaning>
+  </Word>
+  <Word>
+    <Name>Another</Name>
+    <Meaning>something else</Meaning>
+  </Word>
+  <Word>
+    <Name>Answer</Name>
+    <Meaning>a reply</Meaning>
+  </Word>
+  <Word>
+    <Name>Appeal</Name>
+    <Meaning>to request to change an official decision</Meaning>
+  </Word>
+  <Word>
+    <Name>Apply</Name>
+    <Meaning>to spread or rub</Meaning>
+  </Word>
+  <Word>
+    <Name>Backdate</Name>
+    <Meaning>to give something an earlier date than the actual date</Meaning>
+  </Word>
+  <Word>
+    <Name>Badge</Name>
+    <Meaning>a small object that is worn as a symbol of membership or authority</Meaning>
+  </Word>
+  <Word>
+    <Name>Axe</Name>
+    <Meaning>to cut or remove something</Meaning>
+  </Word>
+  <Word>
+    <Name>Baggage</Name>
+    <Meaning>all of the bags and suitcases that belong to a traveller</Meaning>
+  </Word>
+  <Word>
+    <Name>Bald</Name>
+    <Meaning>having little or no hair</Meaning>
+  </Word>
+  <Word>
+    <Name>Banana</Name>
+    <Meaning>a long, edible fruit, often found with yellow skin</Meaning>
+  </Word>
+  <Word>
+    <Name>Bandage</Name>
+    <Meaning>a piece of soft material used in covering and protecting an injury</Meaning>
+  </Word>
+  <Word>
+    <Name>Banknote</Name>
+    <Meaning>a piece of paper, printed and issued by the government, that is used as money</Meaning>
+  </Word>
+  <Word>
+    <Name>Barber</Name>
+    <Meaning>a person whose job is to cut people's hari</Meaning>
+  </Word>
+  <Word>
+    <Name>Baseball</Name>
+    <Meaning>a bat-and-ball game, chiefly played in the US and Canada, between two teams of nine players each</Meaning>
+  </Word>
+  <Word>
+    <Name>Basic</Name>
+    <Meaning>being simple and easily understandable</Meaning>
+  </Word>
+  <Word>
+    <Name>Basket</Name>
+    <Meaning>a container that is used to hold or carry things</Meaning>
+  </Word>
+  <Word>
+    <Name>Batch</Name>
+    <Meaning>people who form a group</Meaning>
+  </Word>
+  <Word>
+    <Name>Beach</Name>
+    <Meaning>the area with sand or pebbles near the shore of an ocean, a sea, a large river or a lake</Meaning>
+  </Word>
+  <Word>
+    <Name>Bead</Name>
+    <Meaning>a small, round ball, with a hold through it, used in making jewellery</Meaning>
+  </Word>
+  <Word>
+    <Name>Beak</Name>
+    <Meaning>the hard, pointy part of a bird's mouth</Meaning>
+  </Word>
+  <Word>
+    <Name>Beam</Name>
+    <Meaning>a strong piece of metl or wood used in building houses</Meaning>
+  </Word>
+  <Word>
+    <Name>Bear</Name>
+    <Meaning>a large, wild animal with a short tail, flat feet and thick fur</Meaning>
+  </Word>
+  <Word>
+    <Name>Beat</Name>
+    <Meaning>a regular moverment or sound</Meaning>
+  </Word>
+  <Word>
+    <Name>Because</Name>
+    <Meaning>for the reason that</Meaning>
+  </Word>
+  <Word>
+    <Name>Become</Name>
+    <Meaning>to change or to develop</Meaning>
+  </Word>
+  <Word>
+    <Name>Beggar</Name>
+    <Meaning>a person who lives by asking for food or money from other people</Meaning>
+  </Word>
+  <Word>
+    <Name>Begin</Name>
+    <Meaning>to start</Meaning>
+  </Word>
+  <Word>
+    <Name>Behalf</Name>
+    <Meaning>speaking or acting for someone else</Meaning>
+  </Word>
+  <Word>
+    <Name>Below</Name>
+    <Meaning>under or lower</Meaning>
+  </Word>
+  <Word>
+    <Name>Bill</Name>
+    <Meaning>a paper showing how much money one has to pay or alrady paid</Meaning>
+  </Word>
+  <Word>
+    <Name>Bind</Name>
+    <Meaning>to tie something or to get tied</Meaning>
+  </Word>
+  <Word>
+    <Name>Biscuit</Name>
+    <Meaning>a baked, sweet snack that is usually dry</Meaning>
+  </Word>
+  <Word>
+    <Name>Black</Name>
+    <Meaning>having the darkest colour; the colour of the night sky</Meaning>
+  </Word>
+  <Word>
+    <Name>Blacksmith</Name>
+    <Meaning>a person who makes and repairs things that are made of iron</Meaning>
+  </Word>
+  <Word>
+    <Name>Blank</Name>
+    <Meaning>a space</Meaning>
+  </Word>
+  <Word>
+    <Name>Blast</Name>
+    <Meaning>to blow up or break apart</Meaning>
+  </Word>
+  <Word>
+    <Name>Bleed</Name>
+    <Meaning>to lose blood</Meaning>
+  </Word>
+  <Word>
+    <Name>Blind</Name>
+    <Meaning>being unable to see</Meaning>
+  </Word>
+  <Word>
+    <Name>Blink</Name>
+    <Meaning>to close and open one's eyes quickly</Meaning>
+  </Word>
+  <Word>
+    <Name>Bloat</Name>
+    <Meaning>to become big or swollen</Meaning>
+  </Word>
+  <Word>
+    <Name>Block</Name>
+    <Meaning>a solid piece of something</Meaning>
+  </Word>
+  <Word>
+    <Name>Bloom</Name>
+    <Meaning>to open into a flower</Meaning>
+  </Word>
+  <Word>
+    <Name>Bounce</Name>
+    <Meaning>to spring back after hitting a surface</Meaning>
+  </Word>
+  <Word>
+    <Name>Bowl</Name>
+    <Meaning>a round, hollow dish with no handle, used to eat food from or keep food</Meaning>
+  </Word>
+  <Word>
+    <Name>Brook</Name>
+    <Meaning>a very small river</Meaning>
+  </Word>
+  <Word>
+    <Name>Bucket</Name>
+    <Meaning>an open container with a handle, used to store water or other liquids</Meaning>
+  </Word>
+  <Word>
+    <Name>Bulge</Name>
+    <Meaning>to swell out of a flat surface</Meaning>
+  </Word>
+  <Word>
+    <Name>Bulk</Name>
+    <Meaning>something of a large size or quantity</Meaning>
+  </Word>
+  <Word>
+    <Name>Bunch</Name>
+    <Meaning>a group of similar things kept together</Meaning>
+  </Word>
+  <Word>
+    <Name>cabin</Name>
+    <Meaning>a small, wooden house</Meaning>
+  </Word>
+  <Word>
+    <Name>cable</Name>
+    <Meaning>a thick rope</Meaning>
+  </Word>
+  <Word>
+    <Name>cancel</Name>
+    <Meaning>to decide or announce that something that was planned will not take place</Meaning>
+  </Word>
+  <Word>
+    <Name>candy</Name>
+    <Meaning>a sweet made with sugar and added flavours</Meaning>
+  </Word>
+  <Word>
+    <Name>carpenter</Name>
+    <Meaning>a person whose job is to build and repair wooden objects</Meaning>
+  </Word>
+  <Word>
+    <Name>carry</Name>
+    <Meaning>to take something or someone from one place to another</Meaning>
+  </Word>
+  <Word>
+    <Name>cartoon</Name>
+    <Meaning>a funny drawing in a book, magazine or newspaper</Meaning>
+  </Word>
+  <Word>
+    <Name>castle</Name>
+    <Meaning>a large building or a ruler, which is protected against attack from enemies</Meaning>
+  </Word>
+  <Word>
+    <Name>catch</Name>
+    <Meaning>to take hold of something</Meaning>
+  </Word>
+</Words>
