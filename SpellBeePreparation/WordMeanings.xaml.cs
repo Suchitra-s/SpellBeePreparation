@@ -397,7 +397,7 @@ namespace SpellBeePreparation
         }
 
 
-        public void UpdateWords()
+        public bool UpdateWords()
         {
             // trying to get words from xml
 
@@ -406,14 +406,17 @@ namespace SpellBeePreparation
             int c = DataHelper.GetWordsCount();
             if (c > (count + 10))
             {
+                txtWordsStatus.Text = "Words " + (count+1) + " to " + (count + 10);
                 // update new words from dataservice
                 words = DataHelper.GetWords(count);
+                return true;
             }
             else
             {
                 MessageDialog message = new MessageDialog("Congratulations! all the words are completed");
                 message.ShowAsync();
                 Frame.Navigate(typeof(MainPage));
+                return false;
             }
         }
 
@@ -467,7 +470,8 @@ namespace SpellBeePreparation
                 img9.Source = null;
                 img10.Source = null;
                 count = count + 10;
-                UpdateWords();
+                var result = UpdateWords();
+                if(result)
                 PopulateWords();
 
             }
