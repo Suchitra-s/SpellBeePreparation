@@ -43,6 +43,7 @@ namespace SpellBeePreparation
 
         private void Submit_Click(object sender, RoutedEventArgs e)
         {
+            btnTwo.IsEnabled = true;
             CheckAnswers();
             if (IsAllCorrect)
             {
@@ -422,6 +423,7 @@ namespace SpellBeePreparation
 
         private void btnTwo_Click(object sender, RoutedEventArgs e)
         {
+            btnTwo.IsEnabled = false;
             if (btnTwo.Content.ToString() == "Retry")
             {
                 txtMatch1.Text = string.Empty;

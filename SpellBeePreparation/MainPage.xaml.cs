@@ -36,5 +36,10 @@ namespace SpellBeePreparation
         {
             Frame.Navigate(typeof(WordMeanings));
         }
+
+        private void ChooseFileClick(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

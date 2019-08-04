@@ -20,8 +20,9 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <TextBlock Text="Spell Bee Preparation Guide - Grade 2" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="ExtraBold"/>
+        <TextBlock Text="Spell Bee Preparation Guide" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="ExtraBold"/>
         <Button Margin="50" Content="Spell It Right" Background="Green" Grid.Row="1" Grid.Column="0" Click="SpellItRight_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
         <Button Margin="50" Content="Learn Meanings" Background="Green" Grid.Row="1" Grid.Column="1" Click="WordMeanings_Click"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Button Margin="50" Content="ChooseFile" Background="Green" Grid.Row="1" Grid.Column="1" Click="ChooseFileClick"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
     </Grid>
 </Page>
